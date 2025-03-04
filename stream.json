@@ -1,4 +1,6 @@
 {
 "Temperature": 22.3,
-"Humidity": 30
+"Humidity": 30,
+"Sunlight": 1361,
+"CO2": 800
 }
